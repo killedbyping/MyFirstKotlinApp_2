@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFirstKotlinApp</string>
+    <string name="my_first_git_project">My First git project</string>
 </resources>
